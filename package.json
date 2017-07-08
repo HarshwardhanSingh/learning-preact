@@ -11,6 +11,9 @@
     "webpack-dev-server": "^2.5.1"
   },
   "dependencies": {
-    "preact": "^8.1.0"
+    "preact": "^8.1.0",
+    "preact-redux": "^2.0.2",
+    "redux": "^3.7.1",
+    "redux-thunk": "^2.2.0"
   }
 }
